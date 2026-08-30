@@ -71,11 +71,12 @@ The application uses a text file to store expense data so that saved expenses ca
 ================================
 1. Add Expense
 3. View Expenses
-4. Update Expense
-5. Delete Expense
-6. Monthly Summary
-7. Category Summary
-8. Exit
+4. Search Expense
+5. Update Expense
+6. Delete Expense
+7. Monthly Summary
+8. Category Summary
+9. Exit
 ================================
 ```
 
