@@ -1,4 +1,4 @@
-Student Expense Tracker
+## Student Expense Tracker
 
 A simple Java-based console application designed to help students manage and track their daily expenses.
 
